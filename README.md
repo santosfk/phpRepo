@@ -1,5 +1,7 @@
 # phpRepo
+#### é interessante deixar claro que o php está em constante alteração, portanto é aconselhavél que seja observada a documentação da linguagem.
 
+[documentação do php](https://www.php.net/)
 ## Objetivo
 
   o objetivo desse repositório é trazer conceitos desde básicos até avançados, sobre php através de exemplos.
