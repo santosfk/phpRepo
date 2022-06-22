@@ -17,6 +17,6 @@ $motos[]="honda";
 print_r($motos);
 
 
-$perifericos = ["mouse","teclado","monitor"]; // outro modo de cria arrays
+$perifericos = ["mouse","teclado","monitor"]; // outro modo de criar arrays
 print_r($perifericos);
 ?>
